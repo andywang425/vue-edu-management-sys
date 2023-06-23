@@ -12,7 +12,7 @@
 
 1. （推荐）Clone 并安装后端部分，然后使用 git 的`submodule`命令来获取前端部分。具体方式请移步[educational-management-system](https://github.com/andywang425/educational-management-system)。
 
-你可以直接 Clone 本项目：
+你也可以直接 Clone 本项目：
 
 ```sh
 git clone https://github.com/andywang425/vue-edu-management-sys.git
