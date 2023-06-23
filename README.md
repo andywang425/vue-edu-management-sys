@@ -10,12 +10,17 @@
 
 ## 开始
 
-1. （可选）Clone 并安装后端部分，具体方式请移步[educational-management-system](https://github.com/andywang425/educational-management-system)。
+1. （推荐）Clone 并安装后端部分，然后使用 git 的`submodule`命令来获取前端部分。具体方式请移步[educational-management-system](https://github.com/andywang425/educational-management-system)。
 
-2. Clone 本项目并安装依赖。如果安装了后端部分，请在后端的根目录下操作。
+你可以直接 Clone 本项目：
 
 ```sh
 git clone https://github.com/andywang425/vue-edu-management-sys.git
+```
+
+2. 安装依赖。
+
+```sh
 cd vue-edu-management-sys
 npm install
 ```
